@@ -1,6 +1,6 @@
 # motion-sensor
 Motion Sensor using OpenCV and Python
 
-Requirements :
-OpenCV -- pip install opencv-python
+Requirements :<br>
+OpenCV -- pip install opencv-python<br>
 Python 2.x +
